@@ -1,0 +1,5 @@
+six
+#sphinx==3.5.4
+sphinx-markdown-tables
+eadthedocs-sphinx-ext
+jinja2<3.1
