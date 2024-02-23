@@ -15,14 +15,14 @@ release = '23.02.2024'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 
-extensions = ["sphinx.ext.napoleon"]
-napoleon_google_docstring = False
+#extensions = ["sphinx.ext.napoleon"]
+#napoleon_google_docstring = False
 
 
 templates_path = ['_templates']
 exclude_patterns = []
 
-extensions = ["sphinx.ext.autodoc"] 
+#extensions = ["sphinx.ext.autodoc"] 
 
 
 language = 'English'
