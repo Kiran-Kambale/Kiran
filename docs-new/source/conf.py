@@ -18,6 +18,7 @@ release = '23.02.2024'
 #extensions = ["sphinx.ext.napoleon"]
 #napoleon_google_docstring = False
 
+extensions = ["eadthedocs-sphinx-ext"] 
 
 templates_path = ['_templates']
 exclude_patterns = []
