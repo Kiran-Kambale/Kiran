@@ -16,6 +16,6 @@ sphinx:
  #formats:
   #  - pdf
 
- python:
-   install:
-    - requirements: docs-new/requirements.txt
+# python:
+ #  install:
+  #  - requirements: docs-new/requirements.txt
