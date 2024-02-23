@@ -1,5 +1,5 @@
 six
-sphinx==3.5.4
+sphinx==7.2.6
 sphinx-markdown-tables
 jinja2<3.1
 Babel==2.8.0
