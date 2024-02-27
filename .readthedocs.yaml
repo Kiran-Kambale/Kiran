@@ -3,6 +3,9 @@
 
 # Required
 version: 2
+sphinx:
+  builder: dirhtml
+  fail_on_warning: true
 
 # Set the OS, Python version and other tools you might need
 build:
@@ -23,8 +26,8 @@ sphinx:
   # fail_on_warning: true
 
 # Optionally build your docs in additional formats such as PDF and ePub
-# formats:
-#   - pdf
+ formats:
+   - pdf
 #   - epub
 
 # Optional but recommended, declare the Python requirements required
